@@ -1,0 +1,28 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-John-McElroy_59540
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McElroy, John
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '1015'
+    url: http://www.gutenberg.org/2009/agents/1015
+    wikipedia: https://en.wikipedia.org/wiki/John_McElroy
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of John McElroy
+url: http://www.gutenberg.org/ebooks/59540
